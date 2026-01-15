@@ -39,9 +39,9 @@ https://ultimatemister.com/product/mister-usb-hub/
 	(A ce stade, vous devriez voir "WAVE PLAYER" s'afficher sur l'écran)
 
 ## Instruction pour l'installation de la partie HPS:
-*1 - Avec un client SSH, se connecter au HPS
-*2 - Créer le dossier "/root/music/"
-*3 - Transférer vos audios wave dans ce dossier "music"
+1. Avec un client SSH, se connecter au HPS
+2. Créer le dossier "/root/music/"
+3. Transférer vos audios wave dans ce dossier "music"
 *4 - Transférer le fichier "HPS/sd_controller.cpp" dans le dossier "/root/"
 *5 - Compiler avec la commande: g++ sd_controller.cpp -o sd_controller -lpthread
 *6 - Puis lancer le script: /root/sd_conroller
@@ -53,5 +53,6 @@ Si vous utilisez une manette compatible pour la Switch, alors voici les fonction
 	- la croix directionnelle: permet de sélectionner un audio
 	- le bouton B: permet de lancer la lecteur d'un audio
 	- le bouton A: permet de stopper une lecture
+
 
 
