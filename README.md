@@ -48,11 +48,12 @@ https://ultimatemister.com/product/mister-usb-hub/
  (Si vous avez bien tout suivi, votre liste d'audios devrait apparaitre à l'écran relié au DE10-Nano)
 
 ## Utilisation:
-Les controles de la manette peuvent varier selon le modèle. Moi j'utilise une manette compatible pour la Switch de Nintendo, mais sinon vous devrez adapter les valeurs des boutons selon votre modèle.
-Si vous utilisez une manette compatible pour la Switch, alors voici les fonctions des touches:
-	- la croix directionnelle: permet de sélectionner un audio
-	- le bouton B: permet de lancer la lecteur d'un audio
-	- le bouton A: permet de stopper une lecture
+Les controles de la manette peuvent varier selon le modèle. Moi j'utilise une manette compatible pour la Switch de Nintendo, mais sinon vous devrez adapter les valeurs des boutons selon votre modèle.  
+Si vous utilisez une manette compatible pour la Switch, alors voici les fonctions des touches:  
+- la croix directionnelle: permet de sélectionner un audio
+- le bouton B: permet de lancer la lecteur d'un audio
+- le bouton A: permet de stopper une lecture
+
 
 
 
