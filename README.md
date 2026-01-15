@@ -34,8 +34,8 @@ https://ultimatemister.com/product/mister-usb-hub/
 
 
 ## Instruction pour l'installation de la partie FPGA:
-*1 - Ouvrir le projet FPGA dans Quartus Prime et le compiler
-*2 - Transférer le programme FPGA sur la carte DE10-Nano 
+* Ouvrir le projet FPGA dans Quartus Prime et le compiler
+* Transférer le programme FPGA sur la carte DE10-Nano 
 	(A ce stade, vous devriez voir "WAVE PLAYER" s'afficher sur l'écran)
 
 ## Instruction pour l'installation de la partie HPS:
@@ -53,4 +53,5 @@ Si vous utilisez une manette compatible pour la Switch, alors voici les fonction
 	- la croix directionnelle: permet de sélectionner un audio
 	- le bouton B: permet de lancer la lecteur d'un audio
 	- le bouton A: permet de stopper une lecture
+
 
