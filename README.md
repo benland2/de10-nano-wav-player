@@ -1,8 +1,8 @@
 # DE10-NANO-Wav-Player
 -------------------------------------------------------------------------------------------------------
 
-Je partage le code source d'un Wave Player que j'ai eu plaisir à coder sur une carte FPGA DE10-NANO.
-Il s'agit d'un lecteur de musique au format WAVE. Le programme affiche une liste de fichiers wav sur un écran avec un haut-parleur intégré (un écran de télé fait l'affaire). Et le tout est controlé par une manette de jeu connectée en filaire sur un des ports USB d'une carte d'extension que j'ai ajouté à ma carte DE1-Nano.
+Je partage le code source d'un Wave Player que j'ai eu plaisir à coder sur une carte FPGA DE10-NANO.  
+Il s'agit d'un lecteur de musique au format WAVE. Le programme affiche une liste de fichiers wav sur un écran avec un haut-parleur intégré (un écran de télé fait l'affaire). Et le tout est controlé par une manette de jeu connectée en filaire sur un des ports USB d'une carte d'extension que j'ai ajouté à ma carte DE1-Nano.  
 
 J'ai réalisé ce projet en auto-didact car je n'ai suivi aucune formation sur la technologie FPGA.
 Il s'agit donc d'une version Alpha qui a très certainement besoin d'être améliorée.
@@ -57,6 +57,7 @@ Si vous utilisez une manette compatible pour la Switch, alors voici les fonction
 - la croix directionnelle: permet de sélectionner un audio
 - le bouton B: permet de lancer la lecteur d'un audio
 - le bouton A: permet de stopper une lecture
+
 
 
 
