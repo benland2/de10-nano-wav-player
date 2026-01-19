@@ -38,8 +38,9 @@ https://ultimatemister.com/product/mister-usb-hub/
 2. Lancer "Platform Designer" dans le menu "Tools"
 3. Sélectionner "soc_system.qsys"
 4. Cliquer sur "Generate HDL..." et "Generate", patienter quelques secondes, puis cliquer sur "Finish"
-5. Compiler ensuite le projet
-6. Enfin, transférer le programme FPGA sur la carte DE10-Nano 
+5. Il est nécessaire ensuite d'aller dans "Tools > Tcl Scripts", et d'exécuter le script "soc_system/synthesis/submodules/hps_sdram_p0_pin_assignements.tcl"
+6. Compiler ensuite le projet
+7. Enfin, transférer le programme FPGA sur la carte DE10-Nano 
 	(A ce stade, vous devriez voir "WAVE PLAYER" s'afficher sur l'écran)
 
 ## Instruction pour l'installation de la partie HPS:
@@ -57,6 +58,7 @@ Si vous utilisez une manette compatible pour la Switch, alors voici les fonction
 - la croix directionnelle: permet de sélectionner un audio
 - le bouton B: permet de lancer la lecteur d'un audio
 - le bouton A: permet de stopper une lecture
+
 
 
 
